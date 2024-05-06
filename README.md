@@ -18,7 +18,7 @@ Ensure you have the necessary permissions to perform the operations.
 Adapt paths as needed based on your system configuration.
 ### Step 3:
 ### NAME : Aakashraj M.
-### REG NO: 212222100002
+### REG NO : 212222100002
 
 
 Execute the necessary commands/batch file for the desired output. 
