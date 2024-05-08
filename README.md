@@ -90,10 +90,7 @@ mkdir %userprofile%\Desktop\Documents
 ```
 move MyLab Documents
 ```
-![alt text](<Screenshot 2024-05-07 193431.png>)
-
-## COMMAND AND OUTPUT
-
+![move](https://github.com/Aakashraj04/Windows-basic-commands-batchscript/assets/121117266/bf3921e6-1988-42a4-b3cd-224afda8fe18)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
@@ -108,7 +105,8 @@ echo Backup completed successfully!
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-05-07 203226.png>)
+![Screenshot 2024-05-08 202436](https://github.com/Aakashraj04/Windows-basic-commands-batchscript/assets/121117266/c08073e2-a0bf-443f-b3c0-13b8a224e02c)
+
 
 # RESULT:
 The commands/batch files are executed successfully.
